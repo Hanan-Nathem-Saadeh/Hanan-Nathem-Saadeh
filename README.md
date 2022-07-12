@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hanan Nathem Saadeh</h1>
 <h3 align="center">A passionate full stack web developer from Jordan, with an undying passion to learn the latest programming languages.</h3>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<br>
 <div align="center" width="50">
 
-<img src="https://i.gifer.com/JXA0.gif" alt="Welcome!" width="300"/>
+<img src="https://faststorestorage.blob.core.windows.net/images/JXA0.gif" alt="Welcome!" width="300"/>
 
 </div>
-
 
 ## 🔥  About me
 - :school: I studied Computer Science and Application at Hashemite University.
