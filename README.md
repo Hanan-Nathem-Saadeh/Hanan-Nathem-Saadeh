@@ -29,6 +29,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+![snake gif](https://github.com/Hanan-Nathem-Saadeh/Hanan-Nathem-Saadeh/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
