@@ -2,12 +2,12 @@
 <h3 align="center">A passionate full stack web developer from Jordan, with an undying passion to learn the latest programming languages.</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <br>
-<div align="center" width="50">
+<div align="center" width="200">
 
-<img src="https://faststorestorage.blob.core.windows.net/images/JXA0.gif" alt="Welcome!" width="300"/>
+<img src="https://faststorestorage.blob.core.windows.net/images/JXA0.gif" alt="Welcome!" width="600"/>
 
 </div>
 
@@ -29,6 +29,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br/>
+
 ![snake gif](https://github.com/Hanan-Nathem-Saadeh/Hanan-Nathem-Saadeh/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
